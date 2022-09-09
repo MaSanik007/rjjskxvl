@@ -1,0 +1,33 @@
+body{
+   font-family: 'Poppins', sans-serif;
+}
+h2{
+   color: rgb(77, 77, 177);
+}
+.content h3{
+color: rgb(0, 0, 177);
+}
+.content a{
+color: rgb(87, 7, 7);
+}
+main li {
+   color: darkgoldenrod
+}
+.busuu  a {
+   color: blue;
+}
+.edwords a{
+   color: rgb(77, 221, 77);
+}
+.school span{
+   font-weight: 600;
+   color: rgb(26, 23, 23);
+}
+.busuu img{
+   width: 200px;
+}
+footer img{
+   width: 15px;
+}
+
+   
